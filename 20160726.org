@@ -1,0 +1,8 @@
+* TODO 光盾3支持UDP协议
+* TODO 通道状态的获取
+* DONE 删除通道守护死掉
+  CLOSED: [2016-07-26 Tue 13:33]
+  - State "DONE"       from "TODO"       [2016-07-26 Tue 13:33]
+* TODO 找出默认读取连接配置的代码
+* TODO 通道更新方向问题
+* TODO 通道更新时单点故障问题

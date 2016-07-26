@@ -1,0 +1,49 @@
+* DONE Learning the basic use of org-mode [100%]
+  CLOSED: [2016-07-25 Mon 14:28]
+  - State "DONE"       from "TODO"       [2016-07-25 Mon 14:28]
+** DONE Read a tutorial from [[http://orgmode.org/worg/org-tutorials/orgtutorial_dto.html][org-tutorials]] [100%]
+   CLOSED: [2016-07-25 Mon 14:27]
+   - State "DONE"       from "TODO"       [2016-07-25 Mon 14:27]
+** Tasks
+*** DONE Start new org file for tutorial
+    CLOSED: [2016-07-25 Mon 11:16]
+    - State "DONE"       from "TODO"       [2016-07-25 Mon 11:16]
+*** DONE Outline document
+    CLOSED: [2016-07-25 Mon 11:20]
+    - State "DONE"       from "TODO"       [2016-07-25 Mon 11:20]
+*** DONE Write introduction
+    CLOSED: [2016-07-25 Mon 11:47]
+    - State "DONE"       from "TODO"       [2016-07-25 Mon 11:47]
+**** Introduction
+
+Org-mode is a personal information management and outlining tool for Emacs. This document is intended to give the reader a "feel" for org-mode and to teach basic operations.
+
+***** Obtaining org-mode
+
+You can download org-mode from the [[http://staff.science.uva.nl/~dominik/Tools/org][org-mode home page.]] The following commands will download version 4.27 and unpack it into your ELISP directory.
+Emacs init file:[[file:~/.emacs.d/init.el::%3B%3B%20irony][init]]
+
+***** Installation
+***** Configuration
+**** The basics
+***** Creaing a new file
+***** Simple task list
+***** Using headlines to structure a document
+***** Links to other places
+***** Adding notes to a task
+***** Scheduling an appointment
+***** Using the agenda
+*** DONE Finish document
+    CLOSED: [2016-07-25 Mon 14:17] SCHEDULED: <2016-07-25 Mon>
+    - State "DONE"       from "TODO"       [2016-07-25 Mon 14:17]
+* TODO 检查为什么在78和79不能删除通道。
+** DONE 检查配置文件
+   CLOSED: [2016-07-25 Mon 14:18]
+   - State "DONE"       from "TODO"       [2016-07-25 Mon 14:18]
+** TODO 测试配置文件
+* DONE Learning how to write .am file [%]
+  CLOSED: [2016-07-26 Tue 09:18]
+  - State "DONE"       from "TODO"       [2016-07-26 Tue 09:18]
+* TODO 解决多个总控在同一台机器时，配置文件的解析问题。
+  - [] 设计自定义格式包，在包里面添加总控信息
+
