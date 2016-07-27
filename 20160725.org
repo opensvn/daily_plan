@@ -36,11 +36,15 @@ Emacs init file:[[file:~/.emacs.d/init.el::%3B%3B%20irony][init]]
 *** DONE Finish document
     CLOSED: [2016-07-25 Mon 14:17] SCHEDULED: <2016-07-25 Mon>
     - State "DONE"       from "TODO"       [2016-07-25 Mon 14:17]
-* TODO 检查为什么在78和79不能删除通道。
+* DONE 检查为什么在78和79不能删除通道。
+  CLOSED: [2016-07-27 Wed 11:31]
+  - State "DONE"       from "TODO"       [2016-07-27 Wed 11:31]
 ** DONE 检查配置文件
    CLOSED: [2016-07-25 Mon 14:18]
    - State "DONE"       from "TODO"       [2016-07-25 Mon 14:18]
-** TODO 测试配置文件
+** DONE 测试配置文件
+   CLOSED: [2016-07-27 Wed 11:30]
+   - State "DONE"       from "TODO"       [2016-07-27 Wed 11:30]
 * DONE Learning how to write .am file [%]
   CLOSED: [2016-07-26 Tue 09:18]
   - State "DONE"       from "TODO"       [2016-07-26 Tue 09:18]

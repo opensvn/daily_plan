@@ -1,0 +1,23 @@
+#+SEQ_TODO: REPORT(r) BUG(b) KNOWNCAUSE(k) | FIXED(f)
+#+SEQ_TODO: TODO(T@/!) | DONE(D@)3 CANCELED(C@/!)
+
+* CANCELLED 同一个守护多个总控，Json配置文件的删除
+  CLOSED: [2016-07-27 Wed 11:34]
+  - State "CANCELLED"  from "TODO"       [2016-07-27 Wed 11:34] \\
+    和之前一个TODO项重复了。
+
+* TODO Organize Party [100%]
+  - State "TODO"       from ""           [2016-07-27 Wed 12:48] \\
+    Test
+** DONE(D@)3 Call people [2/2]
+   CLOSED: [2016-07-27 Wed 12:49]
+   - State "DONE(D@)3"  from "TODO"       [2016-07-27 Wed 12:49]
+*** DONE(D@)3 Peter
+    CLOSED: [2016-07-27 Wed 12:42]
+*** DONE(D@)3 Sarah
+    CLOSED: [2016-07-27 Wed 12:49]
+    - State "DONE(D@)3"  from "TODO"       [2016-07-27 Wed 12:49]
+** Buy food
+** Talk to neighbor
+
+* TODO 配置文件很大需要拆包时，需要注意的问题
